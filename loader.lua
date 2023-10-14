@@ -11,4 +11,4 @@ old = hookfunction(Game.HttpGet, function(self, link)
 end)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/boot-could/luax/main/luaxtrialxd.lua"))()
 
-pcall(loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Discord%20Inviter/Source.lua"))().Prompt,{ invite = "https://discord.gg/SDJ2nUJxYG" })
+pcall(loadstring(game:HttpGet("https://raw.githubusercontent.com/RegularVynixu/Utilities/main/Discord%20Inviter/Source.lua"))().Prompt,{ invite = "https://discord.gg/SDJ2nUJxYG", name = "Cracked By Oops" })
